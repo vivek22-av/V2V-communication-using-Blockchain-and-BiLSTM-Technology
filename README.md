@@ -131,10 +131,9 @@ jupyter notebook Project/ML.ipynb
 
 * **Dr. Jahnvi Tiwari**
 
-## 👨‍💻 Contributors
+## 👨‍💻 Author
 
 * **Ch. Vivek**
-* **T. Manikanth**
 
 ---
 
