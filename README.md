@@ -100,11 +100,8 @@ jupyter notebook Project/ML.ipynb
 
 ## 📊 Results & Visualizations
 
-## Simulation Result  
+## Simulation Result Screenshot
 ![Simulation Data](Results/simulation_data.png)
-
-## Simulation Screenshot  
-![Simulation Files](Results/simulation_files.png)
 
 ## Accuracy vs Epochs  
 ![Accuracy Plot](Results/prediction_sample_Accuracy_vs_epochs.png)
