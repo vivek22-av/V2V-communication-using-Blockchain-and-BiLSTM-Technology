@@ -100,7 +100,7 @@ jupyter notebook Project/ML.ipynb
 
 ## 📊 Results Visualization
 
-### Simulation Result Screenshot
+### Simulated Data Screenshot
 ![Simulation Data](Results/simulation_data.png)
 
 ### Simulation Console Output
