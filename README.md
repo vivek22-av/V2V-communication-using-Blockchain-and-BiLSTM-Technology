@@ -100,18 +100,13 @@ jupyter notebook Project/ML.ipynb
 
 ## 📊 Results & Visualizations
 
-You can include these images (replace links after uploading):
 
+* **Simulation Result** → `Results/simulation_data.png`
+* **Simulation Screenshot** → `Results/simulation_files.png`
 * **Accuracy vs Epochs** → `Results/prediction_sample_Accuracy_vs_epochs.png`
 * **Loss vs Epochs** → `Results/prediction_sample_Loss_vs_epochs.png`
-* **Simulation Screenshot** → `Results/simulation_files.png`
 * **Prediction Output** → `Results/simulation_console.png`
 
-Example placeholder:
-
-```markdown
-![System Architecture](assets/architecture.png)
-```
 
 ---
 
