@@ -100,12 +100,20 @@ jupyter notebook Project/ML.ipynb
 
 ## 📊 Results & Visualizations
 
+## Simulation Result  
+![Simulation Data](https://raw.githubusercontent.com/username/myproject/main/Results/simulation_data.png)
 
-* **Simulation Result** → `Results/simulation_data.png`
-* **Simulation Screenshot** → `Results/simulation_files.png`
-* **Accuracy vs Epochs** → `Results/prediction_sample_Accuracy_vs_epochs.png`
-* **Loss vs Epochs** → `Results/prediction_sample_Loss_vs_epochs.png`
-* **Prediction Output** → `Results/simulation_console.png`
+## Simulation Screenshot  
+![Simulation Files](https://raw.githubusercontent.com/username/myproject/main/Results/simulation_files.png)
+
+## Accuracy vs Epochs  
+![Accuracy Plot](https://raw.githubusercontent.com/username/myproject/main/Results/prediction_sample_Accuracy_vs_epochs.png)
+
+## Loss vs Epochs  
+![Loss Plot](https://raw.githubusercontent.com/username/myproject/main/Results/prediction_sample_Loss_vs_epochs.png)
+
+## Prediction Output  
+![Console Output](https://raw.githubusercontent.com/username/myproject/main/Results/simulation_console.png)
 
 
 ---
