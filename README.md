@@ -58,8 +58,9 @@ This project integrates:
  ┣ 📁 Results
  ┣ 📁 Project
  ┣ 📁 sample_dataset
- ┣ 📁 results
- ┗ README.md
+ ┣ README.md
+ ┣ requirements.txt
+ ┗ LICENSE.md
 ```
 
 ---
