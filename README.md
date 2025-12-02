@@ -98,20 +98,18 @@ jupyter notebook Project/ML.ipynb
 
 ---
 
-## 📊 Results & Visualizations
+## 📊 Results Visualization
 
-## Simulation Result Screenshot
+### Simulation Result Screenshot
 ![Simulation Data](Results/simulation_data.png)
 
-## Accuracy vs Epochs  
-![Accuracy Plot](Results/prediction_sample_Accuracy_vs_epochs.png)
+### Simulation Console Output
+![Simulation Console](Results/simulation_console.png)
 
-## Loss vs Epochs  
-![Loss Plot](Results/prediction_sample_Loss_vs_epochs.png)
-
-## Prediction Output  
-![Console Output](Results/simulation_console.png)
-
+### Model Training Performance
+| Loss vs Epochs | Accuracy vs Epochs |
+|----------------|-------------------|
+| ![Loss Plot](Results/prediction_sample_Loss_vs_epochs.png) | ![Accuracy Plot](Results/prediction_sample_Accuracy_vs_epochs.png) |
 
 ---
 
