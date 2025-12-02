@@ -1,0 +1,18 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+
+tensorflow
+keras
+
+notebook
+jupyter
+
+# Networking / utilities
+requests
+
+# CSV + file handling (usually built-in, but safe to include)
+python-dateutil
+
+# For your blockchain + P2P + socket handling (no extra modules needed, built-in)
